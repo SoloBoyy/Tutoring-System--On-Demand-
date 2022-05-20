@@ -1,0 +1,50 @@
+[
+    {
+        "class": "CSCE 121",
+        "name": "Richie Kumar",
+        "email": "richiekumar214@gmail.com",
+        "latitude": 30.61707,
+        "longitude": -96.34641,
+        "location": "Hullabaloo Hall"
+    },
+    {
+        "class": "CSCE 313",
+        "name": "Carter Ho",
+        "email": "carterho1103@tamu.edu",
+        "latitude": 30.6327,
+        "longitude": -96.3662,
+        "location": "Jack K. Williams Administration Building"
+    },
+    {
+        "class": "CSCE 121",
+        "name": "John Smith",
+        "email": "john@tamu.edu",
+        "latitude": 30.62148,
+        "longitude": -96.34037,
+        "location": "Zachary Engineering Complex"
+    },
+    {
+        "class": "TCMG 308",
+        "name": "Isabella Ortiz",
+        "email": "isabella@tamu.edu",
+        "latitude": 3061704,
+        "longitude": -96.34047,
+        "location": "Harrington Education Tower"
+    },
+    {
+        "class": "MATH 152",
+        "name": "Jane Smith",
+        "email": "jane@tamu.edu",
+        "latitude": 30.61966,
+        "longitude": -96.34204,
+        "location": "Blocker Building"
+    },
+    {
+        "class": "CSCE 111",
+        "name": "Annette Morales",
+        "email": "morales108@tamu.edu",
+        "latitude": 30.61291,
+        "longitude": -96.3445,
+        "location": "Innovative Learning Classroom Building"
+    }
+]

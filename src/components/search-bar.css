@@ -1,0 +1,18 @@
+.search-bar {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.box {
+    text-align: left;
+    border: black ridge 1px;
+    border-radius: 15px;
+    margin: 5px;
+    width: 20rem;
+    padding-left: 12px;
+    padding-top: 5px;
+}
+.class-title {
+    text-align: center;
+}
