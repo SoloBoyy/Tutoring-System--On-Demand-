@@ -1,5 +1,5 @@
 # On Demand
-# About
+# Demo
 Hosted (without chat page functionality) ---> https://divergent-mist.surge.sh/
 # About
 Our project consists of creating a web application that allows students to access on demand tutoring. Tutors could decide when and where they are available to work and students could choose what tutor to receive help from. Many current tutoring or office hours occur during the day when both students and student tutors are attending class, meetings, and/or work. Additionally, they are expected to work on assignments and attend tutoring sessions in between these responsibilities. With our web applications, both students and tutors have the opportunity to give or receive tutoring with more flexibility. Lastly, our application would allow for quick questions to be asked and answered through in app chat.
